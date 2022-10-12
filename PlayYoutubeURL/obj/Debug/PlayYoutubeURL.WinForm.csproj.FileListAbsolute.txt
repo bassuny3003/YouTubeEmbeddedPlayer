@@ -1,0 +1,13 @@
+G:\07- Programming  Projects\03-C Sharp Projects\C Sharp Projects\NetFrame\WindowsForm Projects\YoutubePlayer\PlayYoutubeURL\bin\Debug\PlayYoutubeURL.exe.config
+G:\07- Programming  Projects\03-C Sharp Projects\C Sharp Projects\NetFrame\WindowsForm Projects\YoutubePlayer\PlayYoutubeURL\bin\Debug\PlayYoutubeURL.exe
+G:\07- Programming  Projects\03-C Sharp Projects\C Sharp Projects\NetFrame\WindowsForm Projects\YoutubePlayer\PlayYoutubeURL\bin\Debug\PlayYoutubeURL.pdb
+G:\07- Programming  Projects\03-C Sharp Projects\C Sharp Projects\NetFrame\WindowsForm Projects\YoutubePlayer\PlayYoutubeURL\bin\Debug\YouTubeEmbeddedPlayer.dll
+G:\07- Programming  Projects\03-C Sharp Projects\C Sharp Projects\NetFrame\WindowsForm Projects\YoutubePlayer\PlayYoutubeURL\bin\Debug\YouTubeEmbeddedPlayer.pdb
+G:\07- Programming  Projects\03-C Sharp Projects\C Sharp Projects\NetFrame\WindowsForm Projects\YoutubePlayer\PlayYoutubeURL\obj\Debug\PlayYoutubeURL.WinForm.csproj.AssemblyReference.cache
+G:\07- Programming  Projects\03-C Sharp Projects\C Sharp Projects\NetFrame\WindowsForm Projects\YoutubePlayer\PlayYoutubeURL\obj\Debug\PlayYoutubeURL.FrmLoadPlayer.resources
+G:\07- Programming  Projects\03-C Sharp Projects\C Sharp Projects\NetFrame\WindowsForm Projects\YoutubePlayer\PlayYoutubeURL\obj\Debug\PlayYoutubeURL.Properties.Resources.resources
+G:\07- Programming  Projects\03-C Sharp Projects\C Sharp Projects\NetFrame\WindowsForm Projects\YoutubePlayer\PlayYoutubeURL\obj\Debug\PlayYoutubeURL.WinForm.csproj.GenerateResource.cache
+G:\07- Programming  Projects\03-C Sharp Projects\C Sharp Projects\NetFrame\WindowsForm Projects\YoutubePlayer\PlayYoutubeURL\obj\Debug\PlayYoutubeURL.WinForm.csproj.CoreCompileInputs.cache
+G:\07- Programming  Projects\03-C Sharp Projects\C Sharp Projects\NetFrame\WindowsForm Projects\YoutubePlayer\PlayYoutubeURL\obj\Debug\PlayYoutubeURL.WinForm.csproj.CopyComplete
+G:\07- Programming  Projects\03-C Sharp Projects\C Sharp Projects\NetFrame\WindowsForm Projects\YoutubePlayer\PlayYoutubeURL\obj\Debug\PlayYoutubeURL.exe
+G:\07- Programming  Projects\03-C Sharp Projects\C Sharp Projects\NetFrame\WindowsForm Projects\YoutubePlayer\PlayYoutubeURL\obj\Debug\PlayYoutubeURL.pdb
