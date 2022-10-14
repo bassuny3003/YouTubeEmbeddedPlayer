@@ -1,0 +1,69 @@
+<!DOCTYPE HTML>
+<html>
+
+<head>
+    <meta charset="utf-8">
+
+    <title>Play Youtube Video</title>
+
+
+    <script src="https://www.youtube.com/iframe_api"></script>
+
+<script>
+var player, iframe;
+var $ = document.querySelector.bind(document);
+
+// init player
+function onYouTubeIframeAPIReady() {
+  player = new YT.Player('player', {
+    height: '200',
+    width: '300',
+    videoId: 'dQw4w9WgXcQ',
+    events: {
+      'onReady': onPlayerReady
+    }
+  });
+}
+
+// when ready, wait for clicks
+function onPlayerReady(event) {
+  var player = event.target;
+  iframe = $('#player');
+  setupListener(); 
+}
+
+function setupListener (){
+$('button').addEventListener('click', playFullscreen);
+}
+
+function playFullscreen (){
+  player.playVideo();//won't work on mobile
+  
+  var requestFullScreen = iframe.requestFullScreen || iframe.mozRequestFullScreen || iframe.webkitRequestFullScreen;
+  if (requestFullScreen) {
+    requestFullScreen.bind(iframe)();
+  }
+}
+
+</script>
+
+
+
+
+
+</head>
+
+<body style="margin: 0;" onload="playFullscreen()>
+
+
+
+
+
+<div>
+    
+</div>
+
+
+</body>
+
+</html>
