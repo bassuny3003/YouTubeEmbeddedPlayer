@@ -7,7 +7,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
-using YouTubeEmbeddedPlayer;
+
+//
+using WinForm.YouTubeEmbeddedPlayer;
 
 namespace PlayYoutubeURL
 {
@@ -22,7 +24,7 @@ namespace PlayYoutubeURL
         {
             YoutubePlayer youtubeWebBrowserPlayer = new YoutubePlayer()
             {
-                YotubeVideoURL = "https://www.youtube.com/watch?v=e53c1nRtH7w&list=PLqPejUavRNTVu6AWaG8HREYJDw6cL1oZA&index=27",
+                YotubeVideoURL = "https://www.youtube.com/watch?v=RHNS3Sn21bA",
 
                 //StartSeconds = 30,
                 //EndSeconds = 70,

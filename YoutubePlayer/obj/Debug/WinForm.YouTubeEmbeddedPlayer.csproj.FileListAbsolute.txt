@@ -1,0 +1,5 @@
+G:\07- Programming  Projects\03-C Sharp Projects\C Sharp Projects\NetFrame\WindowsForm Projects\YouTubeEmbeddedPlayer\YoutubePlayer\bin\Debug\WinForm.YouTubeEmbeddedPlayer.dll
+G:\07- Programming  Projects\03-C Sharp Projects\C Sharp Projects\NetFrame\WindowsForm Projects\YouTubeEmbeddedPlayer\YoutubePlayer\bin\Debug\WinForm.YouTubeEmbeddedPlayer.pdb
+G:\07- Programming  Projects\03-C Sharp Projects\C Sharp Projects\NetFrame\WindowsForm Projects\YouTubeEmbeddedPlayer\YoutubePlayer\obj\Debug\WinForm.YouTubeEmbeddedPlayer.csproj.CoreCompileInputs.cache
+G:\07- Programming  Projects\03-C Sharp Projects\C Sharp Projects\NetFrame\WindowsForm Projects\YouTubeEmbeddedPlayer\YoutubePlayer\obj\Debug\WinForm.YouTubeEmbeddedPlayer.dll
+G:\07- Programming  Projects\03-C Sharp Projects\C Sharp Projects\NetFrame\WindowsForm Projects\YouTubeEmbeddedPlayer\YoutubePlayer\obj\Debug\WinForm.YouTubeEmbeddedPlayer.pdb

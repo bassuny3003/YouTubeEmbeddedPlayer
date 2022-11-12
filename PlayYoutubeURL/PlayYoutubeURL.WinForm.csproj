@@ -80,9 +80,9 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\YoutubePlayer\YouTubeEmbeddedPlayer.WinForm.csproj">
+    <ProjectReference Include="..\YoutubePlayer\WinForm.YouTubeEmbeddedPlayer.csproj">
       <Project>{9ff398a6-6fe0-4370-925b-823a73f48d83}</Project>
-      <Name>YouTubeEmbeddedPlayer.WinForm</Name>
+      <Name>WinForm.YouTubeEmbeddedPlayer</Name>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

@@ -96,9 +96,9 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\YouTubeEmbeddedPlayer.WPF\YouTubeEmbeddedPlayer.WPF.csproj">
+    <ProjectReference Include="..\YouTubeEmbeddedPlayer.WPF\WPF.YouTubeEmbeddedPlayer.csproj">
       <Project>{6ce1ba4b-bbb4-4c4f-9e38-f474554b9a83}</Project>
-      <Name>YouTubeEmbeddedPlayer.WPF</Name>
+      <Name>WPF.YouTubeEmbeddedPlayer</Name>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

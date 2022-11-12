@@ -4,7 +4,7 @@ using System.Web;
 using System.Windows.Forms;
 
 
-namespace YouTubeEmbeddedPlayer
+namespace WinForm.YouTubeEmbeddedPlayer
 {
     /// <summary>
     /// Hi, My Name is Mohamed Bassuny , I am C# Lover :)
@@ -20,7 +20,12 @@ namespace YouTubeEmbeddedPlayer
     {
         #region All Class Property Full
 
+
         private string _YotubeVideoURL;
+
+        /// <summary>
+        /// This is The Youtube Link You Want Play It
+        /// </summary>
         public string YotubeVideoURL
         {
             get { return _YotubeVideoURL; }
@@ -28,6 +33,10 @@ namespace YouTubeEmbeddedPlayer
         }
 
         private int _StartSeconds;
+
+        /// <summary>
+        /// Add Start Time To Play The Vedio In { SECONDS }
+        /// </summary>
         public int StartSeconds
         {
             get { return _StartSeconds; }
@@ -35,6 +44,10 @@ namespace YouTubeEmbeddedPlayer
         }
 
         private int _EndSeconds;
+
+        /// <summary>
+        /// Add End Time To Play The Vedio In { SECONDS }
+        /// </summary>
         public int EndSeconds
         {
             get { return _EndSeconds; }
@@ -42,6 +55,10 @@ namespace YouTubeEmbeddedPlayer
         }
 
         private bool _Force1080HD;
+
+        /// <summary>
+        /// Force The Vedio Tp play In 1080 HD
+        /// </summary>
         public bool Force1080HD
         {
             get { return _Force1080HD; }
@@ -49,6 +66,10 @@ namespace YouTubeEmbeddedPlayer
         }
 
         private bool _Autoplay;
+
+        /// <summary>
+        /// Autoplay The Vedio When Loading The Page
+        /// </summary>
         public bool Autoplay
         {
             get { return _Autoplay; }
@@ -56,6 +77,10 @@ namespace YouTubeEmbeddedPlayer
         }
 
         private bool _LoopVideoOrPlaylist;
+
+        /// <summary>
+        /// Play The Vedios Or Playlest In Loop
+        /// </summary>
         public bool LoopVideoOrPlaylist
         {
             get { return _LoopVideoOrPlaylist; }
@@ -131,6 +156,9 @@ namespace YouTubeEmbeddedPlayer
 
         #region Class Constractor
 
+        /// <summary>
+        /// 
+        /// </summary>
         public YoutubePlayer()
         {
 

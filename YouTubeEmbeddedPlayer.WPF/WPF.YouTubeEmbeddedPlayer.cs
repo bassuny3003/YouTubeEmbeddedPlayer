@@ -4,7 +4,7 @@ using System.Web;
 using System.Windows.Controls;
 
 
-namespace YouTubeEmbeddedPlayer
+namespace WPF.YouTubeEmbeddedPlayer
 {
     /// <summary>
     /// Hi, My Name is Mohamed Bassuny , I am C# Lover :)
