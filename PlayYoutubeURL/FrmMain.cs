@@ -24,7 +24,7 @@ namespace PlayYoutubeURL
         {
             YoutubePlayer youtubeWebBrowserPlayer = new YoutubePlayer()
             {
-                YotubeVideoURL = "https://www.youtube.com/watch?v=RHNS3Sn21bA",
+                YotubeVideoURL = "https://youtu.be/wZf41jhMAFA",
 
                 //StartSeconds = 30,
                 //EndSeconds = 70,
@@ -47,7 +47,7 @@ namespace PlayYoutubeURL
 
                 DisablePlayerKeyboardShortcuts = true,
 
-                PlayerPlaylistIDs = new string[] { "u0_fEeQG9Q4", "u0_fEeQG9Q4", "AuZR06xtgXQ" , "e53c1nRtH7w" },
+                //PlayerPlaylistIDs = new string[] { "u0_fEeQG9Q4", "u0_fEeQG9Q4", "AuZR06xtgXQ" , "e53c1nRtH7w" },
 
                 WebBrowserControl = webBrowser
             };

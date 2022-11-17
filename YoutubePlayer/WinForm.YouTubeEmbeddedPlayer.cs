@@ -88,6 +88,10 @@ namespace WinForm.YouTubeEmbeddedPlayer
         }
 
         private bool _ModestBranding;
+
+        /// <summary>
+        /// Modest Branding
+        /// </summary>
         public bool ModestBranding
         {
             get { return _ModestBranding; }
@@ -95,6 +99,10 @@ namespace WinForm.YouTubeEmbeddedPlayer
         }
 
         private bool _ShowUnrelatedVideos;
+
+        /// <summary>
+        /// Show Unrelated Videos
+        /// </summary>
         public bool ShowUnrelatedVideos
         {
             get { return _ShowUnrelatedVideos; }
@@ -102,6 +110,10 @@ namespace WinForm.YouTubeEmbeddedPlayer
         }
 
         private string _PlayerLanguage;
+
+        /// <summary>
+        /// Set Player Language { ar-eg , eng-us , ....etc }
+        /// </summary>
         public string PlayerLanguage
         {
             get { return _PlayerLanguage; }
@@ -109,6 +121,10 @@ namespace WinForm.YouTubeEmbeddedPlayer
         }
 
         private bool _EnablePlayerControls;
+
+        /// <summary>
+        /// Enable Player Controls 
+        /// </summary>
         public bool EnablePlayerControls
         {
             get { return _EnablePlayerControls; }
@@ -116,6 +132,10 @@ namespace WinForm.YouTubeEmbeddedPlayer
         }
 
         private bool _UsingWhiteProgressBar;
+
+        /// <summary>
+        /// Using White ProgressBar in the Player
+        /// </summary>
         public bool UsingWhiteProgressBar
         {
             get { return _UsingWhiteProgressBar; }
@@ -123,6 +143,10 @@ namespace WinForm.YouTubeEmbeddedPlayer
         }
 
         private bool _DisablePlayerKeyboardShortcuts;
+
+        /// <summary>
+        /// Disable Player Keyboard Shortcuts
+        /// </summary>
         public bool DisablePlayerKeyboardShortcuts
         {
             get { return _DisablePlayerKeyboardShortcuts; }
@@ -130,6 +154,10 @@ namespace WinForm.YouTubeEmbeddedPlayer
         }
 
         private string[] _PlayerPlaylistIDs;
+
+        /// <summary>
+        /// Player Playlist IDs
+        /// </summary>
         public string[] PlayerPlaylistIDs
         {
             get { return _PlayerPlaylistIDs; }
@@ -138,6 +166,9 @@ namespace WinForm.YouTubeEmbeddedPlayer
 
         private string _ListID;
 
+        /// <summary>
+        /// List ID
+        /// </summary>
         public string ListID
         {
             get { return _ListID; }
@@ -146,6 +177,10 @@ namespace WinForm.YouTubeEmbeddedPlayer
 
 
         private WebBrowser _WebBrowserControl;
+
+        /// <summary>
+        /// The WebBrowser Control Used In Your Form "Name"
+        /// </summary>
         public WebBrowser WebBrowserControl
         {
             get { return _WebBrowserControl; }
@@ -157,7 +192,7 @@ namespace WinForm.YouTubeEmbeddedPlayer
         #region Class Constractor
 
         /// <summary>
-        /// 
+        /// The Defalt Constractor
         /// </summary>
         public YoutubePlayer()
         {

@@ -46,8 +46,5 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="WinForm.YouTubeEmbeddedPlayer.cs" />
   </ItemGroup>
-  <ItemGroup>
-    <None Include="Youtube URLs Examples.txt" />
-  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
